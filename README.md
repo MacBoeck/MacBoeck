@@ -1,4 +1,6 @@
-### Hi there 👋
+### Willkommen auf meinem GitHub-Profil
+
+Im Moment gibt es hier noch sehr wenig zu finden, da alles noch im Aufbau steht. Aber dieser Begrüßungstext ist doch schonmal ganz toll!
 
 <!--
 **MacBoeck/MacBoeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
